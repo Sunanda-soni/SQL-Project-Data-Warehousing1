@@ -1,2 +1,2 @@
-# SQL-Project-Data-Warehousing-using-SQL-
+# SQL-Project-Data-Warehousing
 SQL Warehouse Project
